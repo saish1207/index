@@ -1,0 +1,41 @@
+.header{
+    border: groove;
+    background-color: rgb(192, 124, 21);
+    display: flex;
+    justify-content:space-around;
+   
+}
+.menu{
+    font-size: 20px;
+    color: gold;
+    background-color: rgb(173, 173, 97);
+    display: flex;
+    flex-direction:column;
+   
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+ justify-content: space-evenly;
+    background-color: rgb(218, 216, 214);
+    
+}
+.item{
+ 
+    font-size: 17px;
+   display: flex;
+   flex-direction: column;
+
+background-color: rgb(253, 252, 250);
+color: rgb(238, 27, 27);
+border: dotted;
+
+}
+.item1{
+    color: gray;
+    background-color: wheat;
+}
+body{
+    background-color: #8f587f;
+}
+
